@@ -2,6 +2,7 @@
 
 ![Ekran görüntüsü 2024-06-12 175233](https://github.com/hikmet444/Xss-Detective/assets/155376275/63c06f08-da8e-4aa3-b8af-ae42221eae45)
 
+>usage
 
 - **mkdir NewXSS**
 
