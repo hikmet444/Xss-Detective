@@ -167,3 +167,6 @@ if __name__ == "__main__":
 ```
 ![Ekran görüntüsü 2024-06-12 180212](https://github.com/hikmet444/Xss-Detective/assets/155376275/e7cc3ea8-60e1-45fb-aee0-f053a6720d01)
 
+
+python3 Xss-Detective
+
